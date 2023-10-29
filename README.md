@@ -1,14 +1,14 @@
-<h2 align="left">Hi 👋🏼! My name is Angel and I'm a Full stack Developer from Mexico.🌮</h2>
+<h2 align="left">Hi 👋🏼! My name is Angel and I'm a Full stack Developer from Mexico. 🌮</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilxgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilxgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="198" src="https://media.tenor.com/Z9GTBSldTk8AAAAC/hasbulla-mini-khabib.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/Z9GTBSldTk8AAAAC/hasbulla-mini-khabib.gif"  />
 
 ###
 
@@ -23,9 +23,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
 ###
