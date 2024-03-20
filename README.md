@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c0cGowM3V6ZzQ0enI3OGg2MDM4YWI1cTNrODhiNDZ6Zm9idHI0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IybQ6l8nfKjxQv6/giphy.gif"  />
+  <img height="200" src="https://c.tenor.com/JVKUV2PfyX0AAAAd/tenor.gif"  />
 </div>
 
 ###
