@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/bLsip.gif" />
+  <img height="200" src="https://giphy.com/gifs/pizzaskateboards-pizza-skateboarding-skateboards-KofuldS3e6u4004Y7g" />
 </div>
 
 ###
