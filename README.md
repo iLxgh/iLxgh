@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://giphy.com/gifs/pizzaskateboards-pizza-skateboarding-skateboards-KofuldS3e6u4004Y7g" />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRubjcyeWhuc3FwdDJ6cXowdmtkaXM5azc3Mm5pMTg1eGkwZm5pciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KofuldS3e6u4004Y7g/giphy.gif" />
 </div>
 
 ###
