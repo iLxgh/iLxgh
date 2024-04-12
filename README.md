@@ -47,10 +47,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNoZzJvY29rNTFuOHJ0ZjU3M2VzbDI3a2JpenExYmtmaHQxYW45ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrLetIrhnblq26AP4X/giphy.gif" />
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z7kek46vebr94msh4738yxh8s&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false&bar_color=b04eb1)](https://github.com/kittinan/spotify-github-profile)
 </div
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z7kek46vebr94msh4738yxh8s&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false&bar_color=b04eb1)](https://github.com/kittinan/spotify-github-profile)
+
 
 ###
 
