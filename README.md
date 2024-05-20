@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼! My name is Angel and I'm a Full stack Developer from Mexico. 🌮</h1>
+<h1 align="center">Hi 👋🏼! My name is Angel and I'm a Front-End Developer from Mexico. 🌮</h1>
 
 ###
 
