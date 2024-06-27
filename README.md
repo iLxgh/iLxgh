@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=z7kek46vebr94msh4738yxh8s&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false&bar_color=b04eb1" alt="Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&cover_image=true&theme=natemoo-re&show_offline=true&background_color=6b6b7b&interchange=true&bar_color=39065b&bar_color_cover=true" alt="Spotify" />
   </a>
 </div>
 
