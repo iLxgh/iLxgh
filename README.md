@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/angel-vazquez-89a08a25b/" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat](https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=420a52&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&redirect=true)" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="[https://spotify-github-profile.kittinanx.com/api/top-langs?username=ilxgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2](https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=420a52&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&redirect=true)" height="150" alt="languages graph"  />
+<img id="example-view" src="https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&amp;cover_image=true&amp;theme=compact&amp;show_offline=false&amp;background_color=121212&amp;interchange=false">
 </div
 
 
