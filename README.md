@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/top-langs?username=ilxgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="[https://spotify-github-profile.kittinanx.com/api/top-langs?username=ilxgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2](https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=420a52&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&redirect=true)" height="150" alt="languages graph"  />
 </div
 
 
