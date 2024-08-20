@@ -14,9 +14,11 @@
   
 <div align="center">
 <h5>👋 Hi there! I’m a passionate full-stack web developer with a specialization in frontend 💻, focused on creating dynamic and functional user experiences. My value proposition lies in my ability to blend design 🎨 and technology, using tools like React, Next.js, and TypeScript to build intuitive and efficient interfaces.
-<br>
-At 18 years old and from Mexico 🌎, I’m particularly interested in designing and developing web solutions that not only solve problems but also provide an exceptional user experience ⭐. I love working on challenging projects 🚀 where I can apply my frontend skills, collaborate in multidisciplinary teams, and continue learning new technologies and best practices.
 </h4>
+<br>
+<p>
+  At 18 years old and from Mexico 🌎, I’m particularly interested in designing and developing web solutions that not only solve problems but also provide an exceptional user experience ⭐. I love working on challenging projects 🚀 where I can apply my frontend skills, collaborate in multidisciplinary teams, and continue learning new technologies and best practices.
+</p>  
 </div>
 
 ###
