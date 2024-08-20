@@ -11,10 +11,9 @@
 </div>
 
 ###
-  <!-- Description -->
   
 <div align="center">
-<h4 align="center">👋 Hi there! I’m a passionate full-stack web developer with a specialization in frontend 💻, focused on creating dynamic and functional user experiences. My value proposition lies in my ability to blend design 🎨 and technology, using tools like React, Next.js, and TypeScript to build intuitive and efficient interfaces.
+<h4>👋 Hi there! I’m a passionate full-stack web developer with a specialization in frontend 💻, focused on creating dynamic and functional user experiences. My value proposition lies in my ability to blend design 🎨 and technology, using tools like React, Next.js, and TypeScript to build intuitive and efficient interfaces.
 </h4>
 </div>
 
