@@ -13,6 +13,14 @@
 ###
 
 <div align="center">
+<p align="center">👋 ¡Hola! Soy un apasionado desarrollador web full-stack especializado en frontend 💻, con un fuerte enfoque en crear experiencias de usuario dinámicas y funcionales. Mi propuesta de valor radica en mi habilidad para combinar diseño 🎨 y tecnología, utilizando herramientas como React, Next.js, y TypeScript para construir interfaces intuitivas y eficientes.
+</p>
+</div>
+
+
+
+
+<div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angelvazquezoriginal@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
