@@ -11,10 +11,11 @@
 </div>
 
 ###
-
+  <!-- Description -->
+  
 <div align="center">
-<h3 align="center">👋 ¡Hola! Soy un apasionado desarrollador web full-stack especializado en frontend 💻, con un fuerte enfoque en crear experiencias de usuario dinámicas y funcionales. Mi propuesta de valor radica en mi habilidad para combinar diseño 🎨 y tecnología, utilizando herramientas como React, Next.js, y TypeScript para construir interfaces intuitivas y eficientes.
-</h3>
+<h4 align="center">👋 Hi there! I’m a passionate full-stack web developer with a specialization in frontend 💻, focused on creating dynamic and functional user experiences. My value proposition lies in my ability to blend design 🎨 and technology, using tools like React, Next.js, and TypeScript to build intuitive and efficient interfaces.
+</h4>
 </div>
 
 ###
