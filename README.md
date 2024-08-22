@@ -41,7 +41,7 @@
 <img id="example-view" src="https://spotify-github-profile.kittinanx.com/api/view?uid=z7kek46vebr94msh4738yxh8s&amp;cover_image=true&amp;theme=compact&amp;show_offline=false&amp;background_color=121212&amp;interchange=false">
 </div
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6RtDI3gLYWrLPuHkHUWJMe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6RtDI3gLYWrLPuHkHUWJMe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
 
 ###
 ###
