@@ -17,7 +17,7 @@
 </p>
 <br>
 <p>
-  At 19 years old and from Mexico 🌎, I’m particularly interested in designing and developing web solutions that not only solve problems but also provide an exceptional user experience ⭐. I love working on challenging projects 🚀 where I can apply my frontend skills, collaborate in multidisciplinary teams, and continue learning new technologies and best practices.
+  At 20 years old and from Mexico 🌎, I’m particularly interested in designing and developing web solutions that not only solve problems but also provide an exceptional user experience ⭐. I love working on challenging projects 🚀 where I can apply my frontend skills, collaborate in multidisciplinary teams, and continue learning new technologies and best practices.
 </p>  
 </div>
 
